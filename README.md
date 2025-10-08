@@ -11,7 +11,7 @@
     <style="font-size: 72px; margin: 0; font-family: monospace;">hello!
 </h2>
 <h4 align="center">
-    <style="font-size: 24px; margin: 0; font-family: monospace;">my name is lara and i am a devops engineer with a focus on cloud infrastructures. feel free to check out my projects :)
+    <style="font-size: 24px; margin: 0; font-family: monospace;">my name is lara and i am a devops engineer. feel free to check out my projects :)
 </h4>
 
 ---
