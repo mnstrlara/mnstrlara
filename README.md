@@ -1,11 +1,6 @@
 <div id="header" align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTk3enExcTlmZTQxeTN4NjhvaTZmaTBtc2o4Z2lhMjBlbnVxMHlvZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/j0HjChGV0J44KrrlGv/giphy.gif" width="300"/>
 </div>
-<div align="center">
-  <a href="https://x.com/mnstrlara">
-<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
-  </a>
-</div>
 
 <h2 align="center">
     <style="font-size: 72px; margin: 0; font-family: monospace;">hello!
